@@ -13,5 +13,5 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/teo-wen-long-19960316/ "><img src="https://img.shields.io/badge/-Teo%20Wen%20Long-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:suprodipbhattacharjee1@gmail.com"><img src="https://img.shields.io/badge/-teowenlong0316@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:suprodipbhattacharjee1@gmail.com"><img src="https://img.shields.io/badge/-suprodipbhattacharjee1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
